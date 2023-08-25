@@ -8,4 +8,4 @@ else if game.PlaceId == 14328009401 then
   end
 
 end
-print("hi"9
+print("hi")
